@@ -26,7 +26,7 @@
 
 ## 📜 প্রজেক্টের সমস্ত কোড (Project Source Code)
 
-### 1️⃣ activity_main.xml
+### 1️⃣ gemini_fregment.xml
 
 ```xml
 
